@@ -1,0 +1,26 @@
+.clases_bg{
+    background-image: url('./img/clasesbg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 85vh;
+    background-position: center;
+}
+table{
+    border: 1px solid black !important;
+}
+tr th{
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+
+}
+tr td{
+    color: blue;
+    cursor: pointer;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+
+}
+tr{
+    padding-top: 10px !important;
+}

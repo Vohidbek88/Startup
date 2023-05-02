@@ -1,0 +1,44 @@
+.nav_fot_h1{
+    font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+
+color: #09A2F9;
+
+}
+
+.btn_subs{
+    width: 157px;
+height: 58px;
+background-color: #09A2F9;
+color: white;
+}
+.inp_subs{
+    background: #707070;
+opacity: 0.2;
+width: 350px;
+height: 66px;
+color: white;
+}
+.inp_subs::placeholder{
+    color: #FAFAFA;
+}
+span{
+    font-size: 20px;
+    color: #909090;
+    margin-left: 18px;
+}
+.icon_socila i{
+    color: #909090;
+    cursor: pointer;
+  font-size: 30px;
+  margin-left: 13px;
+}
+.icon_socila i:hover{
+    color: wheat;
+}
+.footer_li li .link{
+    font-size: 24px;
+    line-height: 50px;
+}

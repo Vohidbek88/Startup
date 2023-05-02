@@ -1,0 +1,88 @@
+.ota{
+    width: 100%;
+}
+.bosh_img{
+    background-image: url('./img//boshiga.png');
+    background-position: center;
+    background-size: cover;
+   background-repeat: no-repeat;
+   width: 100%;
+   height: 85vh;
+}
+.bosh_img img{
+    width: 100%;
+}
+
+.gradient{
+    height:25%;
+    width: 100%;
+    background: linear-gradient(0.67deg, #09A2F9 0.6%, rgba(9, 162, 249, 0) 98.75%);
+
+}
+
+.Aqui{
+   width: 100%;
+   height:  81px;
+   /* margin-top: -10px; */
+   display: flex;
+   background: #09A2F9;
+   justify-content: space-around;
+}
+.Aqui h1{
+    color: white;
+    padding-top: 10px;
+}
+.Aqui button{
+    width: 238px;
+height: 54px;
+background: #FFE400;
+border-radius: 4px;
+color: white;
+margin-top: 15px;
+border: none;
+}
+
+.fitnes_name{
+    /* margin-top: -22px; */
+    width: 100%;
+    background-color: black;
+}
+
+
+.fitnes_img{
+    display: flex ;
+
+}
+
+.sub_inp{
+    width: 350px;
+height: 66px;background: #707070;
+mix-blend-mode: normal;
+opacity: 0.2;
+}
+.sub_btn{
+    width: 157px;
+height: 58px;
+background-color: #09A2F9;
+border: none;
+margin-top: 20px;
+
+}
+
+.chiziq{
+    margin-top: 80px;
+    width: 80%;
+    margin-left: 122px;
+    border: 1px solid white;
+}
+
+.end{
+    margin-top: 40px;
+   width: 80%;
+   margin-left: 140px;
+   color: white;
+}
+.cards{
+    width: 30%;
+    
+}
